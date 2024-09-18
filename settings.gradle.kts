@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Androidsensorlabs"
 include(":app")
- 
+include(":lab08networking")
