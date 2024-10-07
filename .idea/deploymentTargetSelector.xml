@@ -11,6 +11,9 @@
       <SelectionState runConfigName="lab10numberguessing">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="lab11bluetoothscan">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

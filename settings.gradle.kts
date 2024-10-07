@@ -23,3 +23,4 @@ rootProject.name = "Androidsensorlabs"
 include(":app")
 include(":lab08networking")
 include(":lab10numberguessing")
+include(":lab11bluetoothscan")
