@@ -13,7 +13,9 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lab08networking" />
             <option value="$PROJECT_DIR$/lab10numberguessing" />
+            <option value="$PROJECT_DIR$/lab11bluetoothconnect" />
             <option value="$PROJECT_DIR$/lab11bluetoothscan" />
+            <option value="$PROJECT_DIR$/lab13bluetoothconnect" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
