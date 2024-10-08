@@ -16,6 +16,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven("https://jitpack.io")
     }
 }
 
@@ -26,3 +27,4 @@ include(":lab10numberguessing")
 include(":lab11bluetoothscan")
 include(":lab13bluetoothconnect")
 include(":lab11bluetoothconnect")
+include(":lab14heartbeatgraph")
