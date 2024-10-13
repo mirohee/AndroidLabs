@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/lab11bluetoothscan" />
             <option value="$PROJECT_DIR$/lab13bluetoothconnect" />
             <option value="$PROJECT_DIR$/lab14heartbeatgraph" />
+            <option value="$PROJECT_DIR$/lab15audio" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
